@@ -10,7 +10,7 @@ develop-eggs/
 dist/
 downloads/
 eggs/
-.eggs/
+.eggs/chc
 lib/
 lib64/
 parts/
