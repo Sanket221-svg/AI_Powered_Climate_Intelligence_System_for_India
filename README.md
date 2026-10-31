@@ -28,3 +28,5 @@ streamlit run app.py
 - Do not commit large CSVs or model binaries. See `.gitignore`.
 - If models are missing, the app will show instructions to train.
 - This project uses models trained from the provided dataset with preprocessing consistent with the notebook.
+# AI_Powered_Climate_Intelligence_System_for_India
+cc3e0c297080cbd573eed825c808ebbd6b288d05
